@@ -32,10 +32,10 @@ Welcome to the Movie Recommendation System repository! This project leverages da
    ```bash
    python src/main.py
    ```
-4. **Run app.py**:
-   '''bash
-   streamlit run app.py
-   '''
+3. **Run the System**:
+   ```bash
+   python src/main.py
+   ```
    
 
 ## How It Works
