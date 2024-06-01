@@ -44,8 +44,8 @@ The Movie Recommendation System combines collaborative filtering techniques, suc
 
 ## Datasets
 
-This project utilizes publicly available datasets such as the MovieLens dataset for user ratings and movie metadata. Additional data sources can be integrated to enhance recommendations.
-
+This project utilizes publicly available datasets TMDB Movies Dataset. Additional data sources can be integrated to enhance recommendations.
+[TMDB Movies Dataset](https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k)
 ## Contributing
 
 Contributions are welcome! If you have ideas to improve the system or find any issues, feel free to open an issue or submit a pull request.
