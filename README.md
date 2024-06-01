@@ -21,7 +21,7 @@ Welcome to the Movie Recommendation System repository! This project leverages da
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/jaidh01/movie-recommendation-system.git
+   git clone https://github.com/jaidh01/Movie-Recommendation-System.git
    ```
 2. **Install Dependencies**:
    ```bash
