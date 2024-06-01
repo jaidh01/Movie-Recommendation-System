@@ -55,7 +55,7 @@ Contributions are welcome! If you have ideas to improve the system or find any i
 For any questions or suggestions, feel free to reach out:
 
 - **Email**: jaidhingra001@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/jai-dhingra-412419259/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/jai-dhingra-412419259/)
 
 ---
 
